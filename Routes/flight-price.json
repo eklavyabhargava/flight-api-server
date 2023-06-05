@@ -1,0 +1,75 @@
+[
+    {
+      "origin": "Delhi",
+      "destination": "Mumbai",
+      "price": 5000,
+      "airline": "Indigo"
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Kolkata",
+      "price": 4500,
+      "airline": "Air India"
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "price": 5500,
+      "airline": "SpiceJet"
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Delhi",
+      "price": 5200,
+      "airline": "Vistara"
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Kolkata",
+      "price": 4800,
+      "airline": "GoAir"
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Chennai",
+      "price": 5100,
+      "airline": "AirAsia"
+    },
+    {
+      "origin": "Kolkata",
+      "destination": "Delhi",
+      "price": 4500,
+      "airline": "Indigo"
+    },
+    {
+      "origin": "Kolkata",
+      "destination": "Mumbai",
+      "price": 4800,
+      "airline": "Air India"
+    },
+    {
+      "origin": "Kolkata",
+      "destination": "Chennai",
+      "price": 4300,
+      "airline": "SpiceJet"
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Delhi",
+      "price": 5500,
+      "airline": "Vistara"
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Mumbai",
+      "price": 5100,
+      "airline": "GoAir"
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Kolkata",
+      "price": 4300,
+      "airline": "AirAsia"
+    }
+  ]
+  
